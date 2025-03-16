@@ -1,5 +1,8 @@
 # AutoSHiFt: Automatically redeem Gearbox SHiFT Codes
 
+- **WORKING AS OF: March 16, 2025**
+
+
 - **Compatibility:** 3.9+.
 - **Platform:** Crossplatform.
 - **Repo:** https://github.com/ugoogalizer/autoshift forked from https://github.com/Fabbi/autoshift
