@@ -1,6 +1,6 @@
 # AutoSHiFt: Automatically redeem Gearbox SHiFT Codes
 
-- **WORKING AS OF: March 16, 2025**
+- **WORKING AS OF: September 12, 2025. Includes Borderlands 4 codes as well.**
 
 
 - **Compatibility:** 3.9+.
@@ -21,6 +21,7 @@ Games currently maintained by mental mars that are scraped and made available to
 - [Borderlands 3](https://mentalmars.com/game-news/borderlands-3-golden-keys/)
 - [Borderlands The Pre-Sequel](https://mentalmars.com/game-news/bltps-golden-keys/)
 - [Tiny Tina's Wonderlands](https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes)
+- [Borderlands 4](https://mentalmars.com/game-news/borderlands-4-shift-codes/)
 
 To see which games and platforms are supported use the `auto.py --help` command.
 
